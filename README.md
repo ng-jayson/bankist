@@ -1,8 +1,10 @@
-<img src="https://raw.githubusercontent.com/catherineisonline/bankist/main/public/img/project-preview.webp" ></img>
-<img src="https://raw.githubusercontent.com/catherineisonline/bankist/main/public/img/project-preview-2.webp" ></img>
-<img src="https://raw.githubusercontent.com/catherineisonline/bankist/main/public/img/project-preview-3.webp" ></img>
+<div align=center>
 
-# Bankist
+<img src="https://github.com/melissaveraherbst/bankist/assets/84316275/b8e3f88a-1629-477f-a43b-440a05fa2596" width=12% />
+
+# Bankist | A Virtual Bank
+
+</div>
 
 <a href="https://bankist-bank.vercel.app/">Bankist</a> is a fictional and minimalistic online banking application.
 
